@@ -1,0 +1,8 @@
+.title {
+    text-align: center;
+}
+
+.list {
+    display: flex;
+    flex-flow: column wrap
+}
